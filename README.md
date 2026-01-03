@@ -97,7 +97,7 @@ python src/02_eda.py
 
 ---
 
-##Future Improvements
+## Future Improvements
 - Multi-year trend analysis using historical job postings
 - Salary-focused analysis with standardized compensation metrics
 - Skill co-occurrence and role similarity analysis
